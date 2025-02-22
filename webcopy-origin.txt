@@ -1,0 +1,288 @@
+Uri: https://fonts.gstatic.com/s/karantina/v11/buE0po24ccnh31GVMAB5-Qo6wNU.woff2
+File Name: C:\Downloaded Web Sites\gloon.world\s\karantina\v11\buE0po24ccnh31GVMAB5-Qo6wNU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/karantina/v11/buE0po24ccnh31GVMAB59Qo6wNU.woff2
+File Name: C:\Downloaded Web Sites\gloon.world\s\karantina\v11\buE0po24ccnh31GVMAB59Qo6wNU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/karantina/v11/buE0po24ccnh31GVMAB59wo6.woff2
+File Name: C:\Downloaded Web Sites\gloon.world\s\karantina\v11\buE0po24ccnh31GVMAB59wo6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/karantina/v11/buExpo24ccnh31GVMABxTC8v8fRPWiw.woff2
+File Name: C:\Downloaded Web Sites\gloon.world\s\karantina\v11\buExpo24ccnh31GVMABxTC8v8fRPWiw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/karantina/v11/buExpo24ccnh31GVMABxTC8v_fRPWiw.woff2
+File Name: C:\Downloaded Web Sites\gloon.world\s\karantina\v11\buExpo24ccnh31GVMABxTC8v_fRPWiw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/karantina/v11/buExpo24ccnh31GVMABxTC8v__RP.woff2
+File Name: C:\Downloaded Web Sites\gloon.world\s\karantina\v11\buExpo24ccnh31GVMABxTC8v__RP.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/0TTtb0zNCE03XIcPdAIadZ9mh8.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\0TTtb0zNCE03XIcPdAIadZ9mh8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/3AjDlb6rIWrqRvXju61FXtq97hw.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\3AjDlb6rIWrqRvXju61FXtq97hw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/3AjDlb6rIWrqRvXju61FXtq97hw.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\3AjDlb6rIWrqRvXju61FXtq97hw-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/3AjDlb6rIWrqRvXju61FXtq97hw.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\gloon.world\images\3AjDlb6rIWrqRvXju61FXtq97hw-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/3AjDlb6rIWrqRvXju61FXtq97hw.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\3AjDlb6rIWrqRvXju61FXtq97hw-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5GaQXDowl4NJjz9eU6Hqa9FE4c.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\5GaQXDowl4NJjz9eU6Hqa9FE4c.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5GaQXDowl4NJjz9eU6Hqa9FE4c.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\5GaQXDowl4NJjz9eU6Hqa9FE4c-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5GaQXDowl4NJjz9eU6Hqa9FE4c.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\gloon.world\images\5GaQXDowl4NJjz9eU6Hqa9FE4c-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5GaQXDowl4NJjz9eU6Hqa9FE4c.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\5GaQXDowl4NJjz9eU6Hqa9FE4c-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hEKWS4W9R6BE3FeYGvWr1fnjej0.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\hEKWS4W9R6BE3FeYGvWr1fnjej0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hEKWS4W9R6BE3FeYGvWr1fnjej0.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\hEKWS4W9R6BE3FeYGvWr1fnjej0-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hEKWS4W9R6BE3FeYGvWr1fnjej0.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\hEKWS4W9R6BE3FeYGvWr1fnjej0-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/j8chw0Ych1FtdrAO1GMYLGHikE4.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\j8chw0Ych1FtdrAO1GMYLGHikE4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/j8chw0Ych1FtdrAO1GMYLGHikE4.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\j8chw0Ych1FtdrAO1GMYLGHikE4-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/j8chw0Ych1FtdrAO1GMYLGHikE4.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\gloon.world\images\j8chw0Ych1FtdrAO1GMYLGHikE4-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/j8chw0Ych1FtdrAO1GMYLGHikE4.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\j8chw0Ych1FtdrAO1GMYLGHikE4-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Jp12N0otXdo0fHqgmnhXgX01s.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\Jp12N0otXdo0fHqgmnhXgX01s.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Jp12N0otXdo0fHqgmnhXgX01s.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\Jp12N0otXdo0fHqgmnhXgX01s-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Jp12N0otXdo0fHqgmnhXgX01s.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\gloon.world\images\Jp12N0otXdo0fHqgmnhXgX01s-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JWYUREIutxRSSsEYNwJeoCZ5L4.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\JWYUREIutxRSSsEYNwJeoCZ5L4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JWYUREIutxRSSsEYNwJeoCZ5L4.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\JWYUREIutxRSSsEYNwJeoCZ5L4-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JWYUREIutxRSSsEYNwJeoCZ5L4.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\gloon.world\images\JWYUREIutxRSSsEYNwJeoCZ5L4-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JWYUREIutxRSSsEYNwJeoCZ5L4.png?scale-down-to=4096
+File Name: C:\Downloaded Web Sites\gloon.world\images\JWYUREIutxRSSsEYNwJeoCZ5L4-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JWYUREIutxRSSsEYNwJeoCZ5L4.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\JWYUREIutxRSSsEYNwJeoCZ5L4-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/KMBhgYytSwGxXo1KPfoYf2LaI.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\KMBhgYytSwGxXo1KPfoYf2LaI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/KMBhgYytSwGxXo1KPfoYf2LaI.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\KMBhgYytSwGxXo1KPfoYf2LaI-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/KMBhgYytSwGxXo1KPfoYf2LaI.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\gloon.world\images\KMBhgYytSwGxXo1KPfoYf2LaI-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/KMBhgYytSwGxXo1KPfoYf2LaI.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\KMBhgYytSwGxXo1KPfoYf2LaI-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/O1sxGSiuUGHzDhopBkhLrVGZm8.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\O1sxGSiuUGHzDhopBkhLrVGZm8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/oEBnojiV1MsdavPcNUxhnX8juqA.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\oEBnojiV1MsdavPcNUxhnX8juqA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/oEBnojiV1MsdavPcNUxhnX8juqA.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\oEBnojiV1MsdavPcNUxhnX8juqA-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/oEBnojiV1MsdavPcNUxhnX8juqA.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\gloon.world\images\oEBnojiV1MsdavPcNUxhnX8juqA-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/oEBnojiV1MsdavPcNUxhnX8juqA.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\oEBnojiV1MsdavPcNUxhnX8juqA-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qcmvGNh4EcDl5kCs6vhGa7zt3bM.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\qcmvGNh4EcDl5kCs6vhGa7zt3bM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qcmvGNh4EcDl5kCs6vhGa7zt3bM.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\qcmvGNh4EcDl5kCs6vhGa7zt3bM-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qcmvGNh4EcDl5kCs6vhGa7zt3bM.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\gloon.world\images\qcmvGNh4EcDl5kCs6vhGa7zt3bM-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/rDorjGr18WaYG61lQxbssrxx0.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\rDorjGr18WaYG61lQxbssrxx0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/rDorjGr18WaYG61lQxbssrxx0.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\rDorjGr18WaYG61lQxbssrxx0-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/rDorjGr18WaYG61lQxbssrxx0.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\gloon.world\images\rDorjGr18WaYG61lQxbssrxx0-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/rDorjGr18WaYG61lQxbssrxx0.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\rDorjGr18WaYG61lQxbssrxx0-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/SmEj1e7OSRNgIpqdakXQLCuodM.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\SmEj1e7OSRNgIpqdakXQLCuodM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/SmEj1e7OSRNgIpqdakXQLCuodM.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\SmEj1e7OSRNgIpqdakXQLCuodM-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/soT5WSLENDb5P3ytkaIpuOL7w.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\soT5WSLENDb5P3ytkaIpuOL7w.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/soT5WSLENDb5P3ytkaIpuOL7w.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\soT5WSLENDb5P3ytkaIpuOL7w-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/sqLYQBus2iVPUwxH3r1FBUG4A2s.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\sqLYQBus2iVPUwxH3r1FBUG4A2s.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/sqLYQBus2iVPUwxH3r1FBUG4A2s.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\sqLYQBus2iVPUwxH3r1FBUG4A2s-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/sqLYQBus2iVPUwxH3r1FBUG4A2s.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\sqLYQBus2iVPUwxH3r1FBUG4A2s-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/t54FRdHPtCZe7LKmoAtYsfQMyGk.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\t54FRdHPtCZe7LKmoAtYsfQMyGk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/u4Roqaed9Hibe1jFtd1bNkJ1w8.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\u4Roqaed9Hibe1jFtd1bNkJ1w8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/u4Roqaed9Hibe1jFtd1bNkJ1w8.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\u4Roqaed9Hibe1jFtd1bNkJ1w8-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/y5fjmm7QIRgf9ZP7XU68mojHMgo.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\y5fjmm7QIRgf9ZP7XU68mojHMgo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/y5fjmm7QIRgf9ZP7XU68mojHMgo.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\y5fjmm7QIRgf9ZP7XU68mojHMgo-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/y5fjmm7QIRgf9ZP7XU68mojHMgo.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\gloon.world\images\y5fjmm7QIRgf9ZP7XU68mojHMgo-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ZEcCXdMlTbPJZVccZA9RNZ90o0.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\ZEcCXdMlTbPJZVccZA9RNZ90o0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ZEcCXdMlTbPJZVccZA9RNZ90o0.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\ZEcCXdMlTbPJZVccZA9RNZ90o0-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ZEcCXdMlTbPJZVccZA9RNZ90o0.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\ZEcCXdMlTbPJZVccZA9RNZ90o0-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/zkAcvTBINT93XPBSbEdk5ENSnE.png
+File Name: C:\Downloaded Web Sites\gloon.world\images\zkAcvTBINT93XPBSbEdk5ENSnE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/zkAcvTBINT93XPBSbEdk5ENSnE.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\gloon.world\images\zkAcvTBINT93XPBSbEdk5ENSnE-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/zkAcvTBINT93XPBSbEdk5ENSnE.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\gloon.world\images\zkAcvTBINT93XPBSbEdk5ENSnE-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/35eGbWyupCSDafwm8CTkpq/chunk-6KGKGT2I.mjs
+File Name: C:\Downloaded Web Sites\gloon.world\sites\35eGbWyupCSDafwm8CTkpq\chunk-6KGKGT2I.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/35eGbWyupCSDafwm8CTkpq/chunk-C3PHJJEV.mjs
+File Name: C:\Downloaded Web Sites\gloon.world\sites\35eGbWyupCSDafwm8CTkpq\chunk-C3PHJJEV.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/35eGbWyupCSDafwm8CTkpq/chunk-JR5VT52U.mjs
+File Name: C:\Downloaded Web Sites\gloon.world\sites\35eGbWyupCSDafwm8CTkpq\chunk-JR5VT52U.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/35eGbWyupCSDafwm8CTkpq/chunk-RIUMFBNJ.mjs
+File Name: C:\Downloaded Web Sites\gloon.world\sites\35eGbWyupCSDafwm8CTkpq\chunk-RIUMFBNJ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/35eGbWyupCSDafwm8CTkpq/Ho-BIruaae-Y9AcmtXANgc-cAE808C9kjhNjMcjxzgM.4VZ2OYNK.mjs
+File Name: C:\Downloaded Web Sites\gloon.world\sites\35eGbWyupCSDafwm8CTkpq\Ho-BIruaae-Y9AcmtXANgc-cAE808C9kjhNjMcjxzgM.4VZ2OYNK.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/35eGbWyupCSDafwm8CTkpq/script_main.MLUXB65D.mjs
+File Name: C:\Downloaded Web Sites\gloon.world\sites\35eGbWyupCSDafwm8CTkpq\script_main.MLUXB65D.mjs
+Content Type: text/javascript
+
+Uri: https://gloon.world/
+File Name: C:\Downloaded Web Sites\gloon.world\index.htm
+Content Type: text/html
+
